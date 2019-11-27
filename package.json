@@ -1,0 +1,18 @@
+{
+  "name": "Single Page Info",
+  "version": "0.0.1",
+  "description": "A one page of information type of template",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/mxdws/singlepageinfo.git"
+  },
+  "author": "Martin Dawson",
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^0.9.0"
+  }
+}
