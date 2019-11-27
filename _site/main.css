@@ -1,0 +1,38 @@
+article p, article li {
+    color: #4a5568;
+    font-size: 0.875rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+  
+  article h2 {
+    font-weight: 700;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+  }
+  
+  article ul {
+    list-style-type: disc;
+    list-style-position: inside;
+  }
+  
+  article a {
+    text-decoration: underline;
+  }
+  
+  article a:hover {
+    color: #f56565;
+  }
+  
+  article pre {
+    font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    background-color: #e2e8f0;
+    color: #4a5568;
+    border-radius: 0.125rem;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    font-size: 0.75rem;
+    white-space: pre-wrap;
+  }
