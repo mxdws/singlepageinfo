@@ -37,7 +37,7 @@ As an aside, I quite like their Premier League weekly predictions episodes just 
 
 To compliment **Hello World**, this is Hannah Fry's eight-part podcast around the work she has done at [DeepMind](https://deepmind.com) around Artificial Intelligence.
 
-### [Talk Python To Me]
+### [Talk Python To Me](https://talkpython.fm)
 
 If you're thinking of entering the Data Science world, you're almost definitely going to need to use the Python programming language at some point. It's a very beginner friendly language, and the community around it is superb. As such there are some great podcasts, like this one. Not all episodes are on Data Science, but here are some that are.
 
