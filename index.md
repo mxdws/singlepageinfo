@@ -1,3 +1,7 @@
+---
+layout: page.liquid
+---
+
 # Data Science Resources
 
 After the chat we had on the train yesterday morning, I was going to text you a few links, but I felt I needed to ramble more about things I've found useful and not so useful. Hope some of this helps.
