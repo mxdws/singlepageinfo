@@ -19,7 +19,7 @@ This first book though, gives a good overview of Data Science, Python and the ma
 
 I listened to this podcast from the betting company Pinnacle, but the guy that was interviewed was an American called Andrew Mack who makes sports models on which to base his betting. I'm not so interested in the betting side of it but the idea of modelling to find patterns in runs of sports results interests me. 
 
-Anyway, this fella - Andrew Mack has - written a book called [Statistical Sports Models in Excel](https://www.amazon.co.uk/Statistical-Sports-Models-Excel-Andrew-ebook/dp/B07SPWLYQJ/ref=sr_1_1?keywords=andrew+mack+sports&qid=1574860267&sr=8-1). This sounded good to me because it attacks a subject that I'm interested in, using a familiar tool like Excel. If I could have asked for a book for someone to write to explore this subject, I'd probably have written this title. I haven't actually read it but I would hope that explores:
+Anyway, this fella - Andrew Mack has - written a book called [Statistical Sports Models in Excel](https://www.amazon.co.uk/Statistical-Sports-Models-Excel-Andrew-ebook/dp/B07SPWLYQJ/ref=sr_1_1?keywords=andrew+mack+sports&qid=1574860267&sr=8-1). This sounded good to me because it attacks a subject that I'm interested in, using a familiar tool like Excel. If I could have asked for a book for someone to write to explore this subject, I'd probably have written this title. I haven't actually read it but I would hope that it explores:
 
  * Statistical models
  * The concepts of statistics that you'd need to explore any type of dataset
@@ -45,20 +45,20 @@ As an aside, I quite like their Premier League weekly predictions episodes just 
 
 ### [DeepMind Podcast](https://open.spotify.com/show/39fjU5Q5L5UecTCRMeqjwb)
 
-To compliment **Hello World**, this is Hannah Fry's eight-part podcast around the work she has done at [DeepMind](https://deepmind.com) around Artificial Intelligence.
+To compliment *Hello World*, this is Hannah Fry's eight-part podcast about the work she has done at [DeepMind](https://deepmind.com) around Artificial Intelligence.
 
 
 ### [Talk Python To Me](https://talkpython.fm)
 
-If you're thinking of entering the Data Science world, you're almost definitely going to need to use the Python programming language at some point. It's a very beginner friendly language, and the community around it is superb. As such there are some great podcasts, like this one. Not all episodes are on Data Science, but here are some that are.
+If you're thinking of entering the Data Science world, you're almost definitely going to need to use the Python programming language at some point. It's a very beginner friendly language, and the community around it is superb. As such there are some great podcasts, like this one. Not all episodes are on Data Science, but here are some that are, and the careers one in particular shows that you don't have to be a young, gifted, mathematical programmer to pursue it.
 
 [Episode 193 - Data Science Year in Review 2018](https://talkpython.fm/episodes/show/193/data-science-year-in-review-2018-edition)
 
 [Episode 139 - Paths into a Data Science Career](https://talkpython.fm/episodes/show/139/paths-into-a-data-science-career) 
 
-Both of these episodes are related to the opportunities and applications that Python can help you get in to, but you don't need to know Python to gert anything out of them.
+Both of these episodes are related to the opportunities and applications that Python can help you get in to, but you don't need to know Python to get anything out of them.
 
-For me, I enjoy listening to these, but it helps me focus on what I'm doing this for. Do I want to work doing Data Science for a big organisation? Maybe not. But I might like to explore it to some level and see where it takes me. I'm not 21 and have just graduated. I'm nearly 44 with a family and responsibilities, so perhaps using Data Science to write blog posts on the stats behind news articles, political manifestos, the form of a Football team, or how crazy it was that Kylie's first 7 singles reached the number 1 or 2 in the UK singles chart, is as far as I want to go.
+For me, I enjoy listening to these, but it helps me focus on what I'm doing this for. Do I want to work doing Data Science for a big organisation? Maybe not. But I might like to explore it to some level and see where it takes me. I'm not 21 having just graduated. I'm nearly 44 with a family and responsibilities, so perhaps using Data Science to write blog posts on the stats behind news articles, political manifestos, the form of a Football team, or how crazy it was that Kylie's first 7 singles reached the number 1 or 2 in the UK singles chart, is as far as I want to go.
 
 ## Education
 
@@ -70,13 +70,25 @@ But, as much as it's the Daddy of resources, it'd probably cost around £18,000 
 
 ### CityLit
 
-I like CityLit! Their approach is quite gentle, non-academic and they just seem interested in delivering manageable chunks of knowledge for a relatively low price. It doesn't suit every subject, but if you want an intro to Data Science, they do a few courses. They're mainly introductions, but there are a few thatg stand out if you're completely new.
+I like CityLit! Their approach is quite gentle, non-academic and they just seem interested in delivering manageable chunks of knowledge for a relatively low price. It doesn't suit every subject, but if you want an intro to Data Science, they do a few courses. They're mainly introductions, but there are a few that stand out if you're completely new.
 
  * [Probability and Statistics for Data Analysis](https://www.citylit.ac.uk/courses/probability-and-statistics-for-data-analysis)
  * [Linear Algebra and Optimisation for Machine Learning](https://www.citylit.ac.uk/courses/linear-algebra-and-optimisation-for-machine-learning)
  * [Data Analytics with Python: Introduction](https://www.citylit.ac.uk/courses/data-analytics-with-python-introduction)
 
-None of these course will make you an instant Data Science Guru, but just might get the ball rolling. I have done CityLit courses because more than anything, with a job and family, these courses buy you time with other human beings with a similar interest and at least one human being who knows the subject matter. When I did a 6 week animation course, it bought me 18-hours of time in a class room. I would never find 18 hours over 6 weeks at home to dedicate to study.
+None of these course will make you an instant Data Science Guru, but just might get the ball rolling. 
+
+I have done CityLit courses because more than anything, with a job and family, these courses buy you time with other human beings with a similar interest and at least one human being who knows the subject matter. 
+
+When I did a 6 week animation course, it bought me 18-hours of time in a class room. I would never find 18 hours over 6 weeks at home to dedicate to study.
+
+## Conclusion
+
+Maybe I've written too much about this, or over-estimated your interest, but it's a vast topic with so many misconceptions. If you;'ve got an interest in it, there is quite a broad target to aim for, and some of the technical sides of it are smaller bumps in the road than you first think.
+
+Hope it helps :-)
+
+Martin
 
 
 
