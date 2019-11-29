@@ -1,18 +1,26 @@
 {
   "name": "Single Page Info",
   "version": "0.0.1",
-  "description": "A one page of information type of template",
-  "main": ".eleventy.js",
+  "description": "A boilerplate for building a fast static single page of info, for deployment to Netlify.",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npx eleventy"
   },
   "repository": {
     "type": "git",
-    "url": "github.com/mxdws/singlepageinfo.git"
+    "url": "https://github.com/mxdws/singlepageinfo"
   },
-  "author": "Martin Dawson",
+  "author": {
+    "name": "Martin Dawson",
+    "email": "",
+    "url": ""
+  },
   "license": "MIT",
-  "dependencies": {
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
     "@11ty/eleventy": "^0.9.0"
-  }
+  },
+  "dependencies": {}
 }
