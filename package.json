@@ -1,5 +1,5 @@
 {
-  "name": "Single Page Info",
+  "name": "single-page-info",
   "version": "0.0.1",
   "description": "A boilerplate for building a fast static single page of info, for deployment to Netlify.",
   "scripts": {
