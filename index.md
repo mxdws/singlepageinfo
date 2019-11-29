@@ -84,7 +84,7 @@ When I did a 6 week animation course, it bought me 18-hours of time in a class r
 
 ## Conclusion
 
-Maybe I've written too much about this, or over-estimated your interest, but it's a vast topic with so many misconceptions. If you;'ve got an interest in it, there is quite a broad target to aim for, and some of the technical sides of it are smaller bumps in the road than you first think.
+Maybe I've written too much about this, or over-estimated your interest, but it's a vast topic with so many misconceptions. If you've got an interest in Data Science, there is quite a broad target to aim for, and some of the technical sides of it are smaller bumps in the road than you first think.
 
 Hope it helps :-)
 
